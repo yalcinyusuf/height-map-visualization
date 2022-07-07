@@ -1,2 +1,2 @@
 # height-map-visualization
-Gerekli açıklamalar yapılacaktır.
+Heightmap visualization with Python OpenGL
